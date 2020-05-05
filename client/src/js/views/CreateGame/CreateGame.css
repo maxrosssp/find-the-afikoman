@@ -1,0 +1,8 @@
+.create-game .container {
+  max-width: 700px;
+}
+
+.create-game .form-title {
+  margin-bottom: 39px;
+  text-align: center;
+}

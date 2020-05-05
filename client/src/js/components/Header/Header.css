@@ -1,0 +1,18 @@
+.header .header-button {
+  min-width: 154px;
+  margin-left: 20px;
+}
+
+.header .brand-name {
+  font-size: 30px;
+}
+
+.header .right-text {
+  min-width: 550px;
+}
+
+.header .game-title {
+  padding: 0px 90px;
+  font-size: 1.75rem;
+  font-weight: 500;
+}
