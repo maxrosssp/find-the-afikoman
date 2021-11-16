@@ -29,7 +29,7 @@
     "@babel/core": "^7.9.0",
     "@babel/node": "^7.8.7",
     "@babel/preset-env": "^7.9.5",
-    "aws-sdk": "^2.656.0",
+    "aws-sdk": "^2.814.0",
     "create-react-app": "^3.4.1",
     "nodemon": "^2.0.3",
     "pg-hstore": "^2.3.3",
